@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mengenal Penemu</string>
+
+    <string-array name="nama">
+        <item>Ibnu Sina</item>
+        <item>Abbas bin Firnas</item>
+        <item>Al Jazari</item>
+        <item>Al Zahrawi</item>
+        <item>Fathimah Al Fitri</item>
+        <item>Ibnu Al Haytham</item>
+        <item>Ibnu Battuta</item>
+        <item>Jabir Ibnu Hayyan
+
+</item>
+        <item>Koca Mimar Sinan</item>
+        <item>Laksamana Cheng Ho</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Inilah salah seorang penemu Muslim yang paling berpengaruh di dunia, Ibnu Sina yang saat ini dikenal sebagai peletak ilmu kedokteran. Dia telah mampu melakukan berbagai operasi, termasuk salah satunya operasi tulang pada abad ke-11. Karyanya ‘Al Qanun fi at-Tibb’ juga menjadi rujukan bagi dunia kedokteran sampai akhir abad 19. Buku itu diterjemahkan dalam bahasa Inggris dengan judul ‘Canon of Medicine’, dan kini jadi dasar ilmu kedokteran Barat.
+
+</item>
+        <item>Selama ini, dunia Barat mengklaim bahwa Wright bersaudara yang menemukan pesawat. Padahal, 1000 tahun sebelumnya, Abbas bin Firnas sudah berhasil terbang di udara. Berkat kekagumannya pada makhluk ciptaan Allah, burung, dia mengembangkan suatu alat yang membuatnya bisa terbang selama 10 menit, lebih lama dari Wright bersaudara yang hanya terbang selama 12 detik. Selain itu dia juga dikenal sebagai ahli sastra, musik, dan astronomi.</item>
+        <item>Sebagai insinyur mesin, Al Jazari mengembangkan jam gajah yang mampu mengukur waktu dengan akurat, untuk menentukan waktu shalat, puasa, dan haji. Dia mempelajari proses air mengalir untuk menggerakkan jam dengan akurasi tinggi. Lalu, dia juga membuat mesin pompa air agar umat Islam bisa berwudhu dengan mudah. Sejarah pun mencatat bahwa umat Muslim di Turki abad ke-12 bisa beribadah dengan nyaman berkat penemuannya</item>
+        <item>Disebut sebagai bapak dokter bedah, Al Zahrawi merupakan dokter bedah yang merancang lebih dari 200 alat bedah pada abad ke-10, yang hingga kini masih dipakai di seluruh dunia meski ada beberapa sedikit perubahan. Buku karyanya yang berjudul ‘Al Tasrif’ pun telah diterjemahkan oleh bangsa Barat ke dalam berbagai bahasa, dan sampai sekarang masih menjadi panduan operasi di sekolah kedokteran di seluruh dunia selama berabad-abad.
+
+</item>
+        <item>Emansipasi perempuan baru dikenal dunia Barat pada abad 19. Padahal, kaum perempuan dalam peradaban Islam sudah mendapatkan tempat yang mulai sejak agama ini lahir. Ada banyak kaum Hawa yang jadi orang terpelajar dan terpandang, salah satunya Fathimah Al Fitri yang membuat perguruan tinggi modern pertama di dunia dalam kompleks Masjid Al Qawariyin di Fez, Maroko. Pakaian mahasiswa dengan toga pun adalah simbol dari Ka’bah.</item>
+        <item>Salah seorang penemu Muslim yang paling berpengaruh di dunia ini menghasilkan karya besar berjudul ‘Al Manazir’ yang menjelaskan tentang cara kerja optik. Hasil penelitian Ibnu Al Haytham yang menemukan camera obscura itu kini menjadi dasar kerja kamera, termasuk proyektor bioskop. Karyanya tersebut telah diterjemahkan ke bahasa Inggris dengan judul ‘Book of Optics’ dan memengaruhi pola pikir banyak ilmuwan Barat, termasuk Roger Bacon.</item>
+        <item>Dalam usia yang muda, masih 21 tahun, pada abad ke-14, Ibnu Battuta pun sudah memulai perjalanannya untuk menjelajahi dunia. Berkelana selama 29 tahun, dia mengunjungi 44 negara, mulai dari benua Afrika, Mesir, Suriah, Persia, Teluk Arab, Anatolia, Turkmenistan, Afghanistan, India, Maladewa, Srilanka, Bengal, Sumatera, Tiongkok, Sardinia, dan Spanyol. Dia mempelajari banyak hal dalam perjalananannya, dan kemudian membukukan semuanya.</item>
+        <item>Sejak abad ke-8, ilmuwan Muslim Jabir Ibnu Hayyan ternyata telah sukses menyempurnakan proses pembuatan parfum. Dialah yang mengembangkan teori sublimasi, distilasi, oksidasi, pencairan, pemurnian, dan berbagai percobaan kimia lainnya. Sehingga, dirinya pun pantas disenebut sebagai penemu dan pengembang aroma parfum di dunia. Meski telah melakukan banyak penemuan dalam bidang ilmu kimia, namun tidak banyak yang mengenal namanya.
+
+</item>
+        <item>Dia dikenal sebagai sang arsitek, di mana salah satu karya terbesarnya sepanjang sejarah adalah Masjid Selimiye di Edime, Turki, yang memiliki menara anti gempa tertinggi. Koca Mimar Sinan adalah arsitek besar dari abak ke-16 yang telah membangun lebih dari 470 bangunan megah di zaman Turki Utsmani. Meski pun dirinya berasal dari keluarga Kristen Ortodoks Yunani, namun Sinan mendapat hidayah dan kemudian memeluk agama Islam.</item>
+        <item>Meski pun seorang China, Laksamana Cheng Ho merupakan seorang kasim Muslim, yang menjadi orang kepercayaan Kaisar Yongle (berkuasa pada tahun 1403-1424), kasiar ketiga dari Dinasti Ming di Tiongkok. Nama aslinya Ma He, di mana kata ‘Ma’ diambil dari nama Muhammad. Dia dikenal sebagai pelaut terkenal yang telah menjelajah 37 negara di dunia, termasuk Nusantara. Kapalnya luar biasa besar, hingga tak ada yang bisa membuat ulang.
+
+</item>
+    </string-array>
+</resources>
